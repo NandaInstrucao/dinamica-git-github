@@ -4,3 +4,6 @@ Lista de Tecnologias que aprendemos até agora
 2. CSS
 3. JavaScript
 4. Unix
+5. Pseudo Classes
+6. Responsividade
+7. Bootstrap
