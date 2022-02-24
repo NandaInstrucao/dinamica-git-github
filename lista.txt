@@ -5,3 +5,5 @@ Lista de Tecnologias que aprendemos até agora
 3. JS
 4. Git
 5. Unix
+6. DOM
+7. Flex-box
