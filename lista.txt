@@ -4,3 +4,6 @@ Lista de Tecnologias que aprendemos até agora
 2. CSS
 3. JavaScript
 4. Unix
+5. Git e GitHUb
+6. Flex-box
+7. DOM
